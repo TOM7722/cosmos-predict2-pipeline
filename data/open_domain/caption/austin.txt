@@ -1,0 +1,1 @@
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. Traffic lights ahead will change, and vehicles will either stop or continue moving. The sun will set further, casting longer shadows across the road.

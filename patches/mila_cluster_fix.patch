@@ -1,0 +1,33 @@
+diff --git a/cosmos_predict2/_src/imaginaire/utils/distributed.py b/cosmos_predict2/_src/imaginaire/utils/distributed.py
+index 38b2cc2..fc358ac 100644
+--- a/cosmos_predict2/_src/imaginaire/utils/distributed.py
++++ b/cosmos_predict2/_src/imaginaire/utils/distributed.py
+@@ -52,7 +52,7 @@ def init() -> int | None:
+     try:
+         device = Device(local_rank)
+         os.sched_setaffinity(0, device.get_cpu_affinity())
+-    except pynvml.NVMLError as e:
++    except (pynvml.NVMLError, OSError) as e:
+         log.warning(f"Failed to set device affinity: {e}")
+     # Set up NCCL communication.
+     os.environ["TORCH_NCCL_BLOCKING_WAIT"] = "0"
+@@ -69,11 +69,14 @@ def init() -> int | None:
+             rank0_only=False,
+         )
+     # Increase the L2 fetch granularity for faster speed.
+-    _libcudart = ctypes.CDLL("libcudart.so")
+-    # Set device limit on the current device.
+-    p_value = ctypes.cast((ctypes.c_int * 1)(), ctypes.POINTER(ctypes.c_int))
+-    _libcudart.cudaDeviceSetLimit(ctypes.c_int(0x05), ctypes.c_int(128))
+-    _libcudart.cudaDeviceGetLimit(p_value, ctypes.c_int(0x05))
++    try:
++        _libcudart = ctypes.CDLL("libcudart.so")
++        # Set device limit on the current device.
++        p_value = ctypes.cast((ctypes.c_int * 1)(), ctypes.POINTER(ctypes.c_int))
++        _libcudart.cudaDeviceSetLimit(ctypes.c_int(0x05), ctypes.c_int(128))
++        _libcudart.cudaDeviceGetLimit(p_value, ctypes.c_int(0x05))
++    except OSError as e:
++        log.warning(f"Failed to load libcudart.so for L2 fetch granularity tuning: {e}")
+     log.info(f"Training with {get_world_size()} GPUs.")
+ 
+ 
