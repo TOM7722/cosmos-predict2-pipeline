@@ -59,8 +59,10 @@ def sanitize_name(name: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ego-root", required=True)
-    parser.add_argument("--open-domain-root", required=True)
+    parser.add_argument("--ego-root", default=None,
+                        help="Root directory for ego-view data. Omit or set --ego-limit 0 to skip.")
+    parser.add_argument("--open-domain-root", default=None,
+                        help="Root directory for open-domain data. Omit or set --open-limit 0 to skip.")
     parser.add_argument("--text-subdir", default="caption")
     parser.add_argument("--image-subdir", default="imgs")
     parser.add_argument("--output-jsonl", required=True)
@@ -72,13 +74,21 @@ def main():
     parser.add_argument("--open-limit", type=int, default=None)
     args = parser.parse_args()
 
-    ego_root = Path(args.ego_root).expanduser().resolve()
-    open_root = Path(args.open_domain_root).expanduser().resolve()
     output_jsonl = Path(args.output_jsonl).expanduser().resolve()
     output_jsonl.parent.mkdir(parents=True, exist_ok=True)
 
-    ego_pairs = collect_pairs(ego_root, args.text_subdir, args.image_subdir, args.ego_limit, "ego")
-    open_pairs = collect_pairs(open_root, args.text_subdir, args.image_subdir, args.open_limit, "open_domain")
+    ego_pairs = []
+    if args.ego_root and args.ego_limit != 0:
+        ego_root = Path(args.ego_root).expanduser().resolve()
+        ego_pairs = collect_pairs(ego_root, args.text_subdir, args.image_subdir, args.ego_limit, "ego")
+
+    open_pairs = []
+    if args.open_domain_root and args.open_limit != 0:
+        open_root = Path(args.open_domain_root).expanduser().resolve()
+        open_pairs = collect_pairs(open_root, args.text_subdir, args.image_subdir, args.open_limit, "open_domain")
+
+    if not ego_pairs and not open_pairs:
+        raise SystemExit("No samples to process. Provide --ego-root or --open-domain-root with a non-zero limit.")
 
     entries = []
     seen_names = set()
