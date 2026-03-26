@@ -29,17 +29,16 @@ patches/
 conda create -n cosmos-predict25 python=3.10 -y
 conda activate cosmos-predict25
 
-# Install PyTorch — pick the right CUDA variant:
-# CUDA 12.8 (most A100 clusters):
-pip install -e "cosmos-predict2[cu128]"
-# CUDA 13.0:
-# pip install -e "cosmos-predict2[cu130]"
+# Install from the cosmos-predict2 repo root.
+# Confirmed working: PyTorch 2.7.0 + CUDA 12.6
+pip install -e ".[all]"
 
 # flash_attn — version 2.7.3 is required (2.7.0–2.7.4 range is supported internally)
 pip install flash-attn==2.7.3 --no-build-isolation
 ```
 
-> **Note:** `flash_attn` is checked at runtime via `flash2_supported()` which requires version in [2.7.0, 2.7.4]. Version 2.7.3 is confirmed working.
+> **Confirmed working:** PyTorch 2.7.0 + CUDA 12.6 + flash-attn 2.7.3 on A100 80 GB.
+> `flash_attn` is checked at runtime via `flash2_supported()` which requires version in [2.7.0, 2.7.4].
 
 ---
 
