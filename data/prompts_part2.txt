@@ -1,0 +1,599 @@
+=== brno_3_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. The traffic light remains green, allowing the vehicle to proceed straight through the intersection. A pedestrian steps onto the crosswalk without looking, causing the vehicle to brake suddenly and wait for the pedestrian to cross before proceeding.
+
+=== brno_3_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle is in the right lane, approaching a green traffic light. A single large truck, initially ahead in the left lane, suddenly cuts into the vehicle's lane, forcing it to slow down and change lanes to avoid a collision."
+
+=== brussels_3_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle will continue driving forward, maintaining its lane position. A tram approaches from behind, rapidly closing the gap. The car suddenly merges into the tram's path, forcing the tram to brake sharply. The camera captures the tense standoff as pedestrians watch from the sidewalk.
+
+=== brussels_3_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle will continue driving forward, maintaining its lane position. A cyclist abruptly swerves into the car's lane, disregarding traffic rules. The car is forced to brake sharply to avoid a collision. The cyclist continues erratically, weaving through traffic, as the camera captures the chaotic scene.
+
+=== brussels_3_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle will continue driving forward, maintaining its position in the left lane. A tram approaches from behind, rapidly closing the gap. The car suddenly weaves into the tram's path, forcing the tram to brake sharply. The camera captures the tense standoff as pedestrians watch from the sidewalk."
+
+=== bucharest_2_debris_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the snowy road ahead, with other vehicles visible in the distance. The snowfall persists, and the windshield wipers activate to clear accumulated snow. A sudden gust of wind blows snow from a parked vehicle, temporarily obscuring the road and causing the vehicle to reduce speed until visibility improves.
+
+=== bucharest_2_debris_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the snowy road ahead, with other vehicles visible in the distance. The snowfall persists, and the windshield wipers activate to clear accumulated snow. A car ahead suddenly brakes, its taillights glowing in the low-contrast daylight, forcing the vehicle to react quickly to avoid a collision.
+
+=== bucharest_2_debris_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its position in the right lane. The camera captures the snowy road ahead, with a single vehicle visible in the distance, moving slowly alongside. The snowfall persists, and the windshield wipers activate to clear accumulated snow. A sudden gust of wind blows snow from a parked vehicle, temporarily obscuring the road and causing the vehicle to reduce speed momentarily until visibility improves."
+
+=== bucharest_2_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the snowy road ahead, with other vehicles visible in the distance. The snowfall intensifies, reducing visibility to near-zero. The vehicle's sensors struggle to process the dense snow, leading to temporary blindness.
+
+=== bucharest_2_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the snowy road ahead, with other vehicles visible in the distance. A large snowplow approaches from the opposite direction, kicking up a thick cloud of snow and ice. The vehicle's sensors are momentarily overwhelmed, causing a brief loss of visibility and control.
+
+=== bucharest_2_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its position in the right lane. The camera captures the snowy road ahead, with a single vehicle visible in the distance, driving alongside. The snowfall intensifies, reducing visibility to near-zero. The vehicle's sensors struggle to process the dense snow, leading to temporary blindness."
+
+=== budapest_2_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the road ahead, showing other vehicles moving in the same direction. A black SUV ahead suddenly swerves into the vehicle's lane, forcing it to brake sharply. The sky remains partly cloudy, and the lighting suggests it is either early morning or late evening. Trees and buildings line both sides of the road, providing a consistent backdrop as the vehicle comes to a halt.
+
+=== budapest_2_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the road ahead, showing other vehicles moving in the same direction. A motorcycle approaches from behind at high speed, weaving between vehicles and cutting in front of the car, causing it to brake abruptly. The sky remains partly cloudy, and the lighting suggests it is either early morning or late evening. Trees and buildings line both sides of the road, providing a consistent backdrop as the vehicle slows down.
+
+=== budapest_2_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position in the left lane. The camera captures the road ahead, showing other vehicles moving in the same direction. A black SUV ahead abruptly drifts into the vehicle's lane, forcing it to brake sharply. The sky remains partly cloudy, and the lighting suggests it is either early morning or late evening. Trees and buildings line both sides of the road, providing a consistent backdrop as the vehicle comes to a halt."
+
+=== buenos_aires_8_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives straight ahead. The scene remains consistent with the previous frame, showing the illuminated street and the Obelisco in the distance. Pedestrians can be seen walking along the sidewalks, and traffic lights remain green. Suddenly, a pedestrian jaywalks across the street in front of the vehicle, forcing it to brake sharply.
+
+=== buenos_aires_8_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives straight ahead. The scene remains consistent with the previous frame, showing the illuminated street and the Obelisco in the distance. Pedestrians can be seen walking along the sidewalks, and traffic lights remain green. A group of tourists, distracted by their phones, crosses the street against the pedestrian signal, causing the vehicle to slow and wait for them to clear the road.
+
+=== buenos_aires_8_vru_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle is in the left lane, driving straight ahead. The scene remains consistent, revealing the illuminated street and the Obelisco in the distance. Pedestrians walk along the sidewalks, and traffic lights remain green. Suddenly, two pedestrians jaywalk across the street closely in front of the vehicle, forcing it to brake abruptly."
+
+=== bursa_3_wildlife_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The fog remains dense, obscuring visibility ahead. A wild boar suddenly appears in the distance, moving from the left shoulder onto the road. The vehicle brakes sharply as the boar crosses, disappearing into the fog.
+
+=== bursa_3_wildlife_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The fog remains dense, obscuring visibility ahead. A deer freezes in the middle of the road, its eyes reflecting the vehicle's headlights. The vehicle slows to a stop, waiting for the deer to move before proceeding cautiously.
+
+=== bursa_3_wildlife_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The fog remains dense, obscuring visibility ahead. A single wild boar suddenly emerges from the right shoulder, drifting onto the road. The vehicle brakes abruptly as the boar crosses, disappearing into the fog."
+
+=== busan_preceding_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues driving forward through the tunnel, maintaining its lane position. The camera captures the interior of the tunnel, showing the curved walls and overhead lights. As the vehicle progresses, it approaches a white car ahead that suddenly slows and swerves, causing the autonomous vehicle to react quickly, braking and steering to avoid a collision.
+
+=== busan_preceding_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues driving forward through the tunnel, maintaining its lane position. The camera captures the interior of the tunnel, showing the curved walls and overhead lights. As the vehicle progresses, it approaches a large truck ahead that suddenly loses control, jackknifing and blocking the lane. The autonomous vehicle quickly maneuvers to the left, using the narrow shoulder to safely pass the truck.
+
+=== busan_preceding_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues driving forward through the tunnel, maintaining its right lane position. The camera captures the interior of the tunnel, showing the curved walls and overhead lights. As the vehicle progresses, it approaches two white cars ahead that suddenly slow and weave, causing the autonomous vehicle to react quickly, braking and steering to avoid a collision."
+
+=== cairo_4_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing to drive forward, maintaining its lane position. The traffic ahead will remain dense, with vehicles stopping and starting as they navigate through the intersection. A car in the adjacent lane suddenly merges into the vehicle's lane without signaling, forcing the vehicle to brake abruptly. The green light remains illuminated, but the vehicle must wait for the merging car to clear before proceeding. The surrounding buildings and street signs will remain visible, providing context for the urban environment.
+
+=== cairo_4_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing to drive forward, maintaining its lane position. The traffic ahead will remain dense, with vehicles stopping and starting as they navigate through the intersection. A pedestrian crosses against the red light, stepping into the vehicle's path. The vehicle must brake sharply to avoid a collision. The green light stays illuminated, but the vehicle waits for the pedestrian to clear before resuming its journey. The surrounding buildings and street signs will remain visible, providing context for the urban environment.
+
+=== cairo_4_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing to drive forward, maintaining its lane position in the right lane. The traffic ahead will remain dense, with vehicles stopping and starting as they navigate through the intersection. A car in the left lane suddenly cuts into the vehicle's lane without signaling, forcing the vehicle to brake abruptly. The green light remains illuminated, but the vehicle must wait for the merging car to clear before proceeding. The surrounding buildings and street signs will remain visible, providing context for the urban environment."
+
+=== cairo_4_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing to drive forward, maintaining its lane position. The traffic ahead will remain dense, with vehicles stopping and starting as they navigate through the intersection. The green light will stay illuminated, allowing the vehicle to proceed. The surrounding buildings and street signs will remain visible, providing context for the urban environment. As the vehicle approaches the intersection, a bus on the adjacent lane suddenly attempts to merge, forcing a nearby car to brake sharply, causing a ripple effect in the traffic flow.
+
+=== cairo_4_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing to drive forward, maintaining its lane position. The traffic ahead will remain dense, with vehicles stopping and starting as they navigate through the intersection. The green light will stay illuminated, allowing the vehicle to proceed. The surrounding buildings and street signs will remain visible, providing context for the urban environment. As the vehicle approaches a parked truck with its hazard lights on, a pedestrian suddenly steps onto the road, attempting to cross, causing the vehicle to slow down and the following cars to react, leading to a brief negotiation for right of way.
+
+=== cairo_4_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle driving forward in the right lane, maintaining its position. The traffic ahead will remain heavy, with vehicles moving slowly as they approach the intersection. The green light will stay lit, allowing the vehicle to proceed. The surrounding buildings and street signs will remain visible, providing context for the urban environment. As the vehicle nears the intersection, a bus in the adjacent left lane abruptly cuts in front, forcing a nearby car to brake sharply, causing a ripple effect in the traffic flow."
+
+=== cape_town_2_wildlife_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving forward at a steady pace. The scenery remains consistent with greenery on the left side and a coastal view on the right. The sky appears overcast, suggesting cloudy weather conditions. A group of penguins waddles onto the road from the greenery, causing traffic to slow and drivers to maneuver around them.
+
+=== cape_town_2_wildlife_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving forward at a steady pace. The scenery remains consistent with greenery on the left side and a coastal view on the right. The sky appears overcast, suggesting cloudy weather conditions. A large monitor lizard crosses the road from the greenery, moving slowly and deliberately, causing vehicles to brake and wait for it to clear before continuing.
+
+=== cape_town_2_wildlife_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving forward at a steady pace. The scenery remains consistent with greenery on the right side and a coastal view on the left. The sky appears overcast, suggesting cloudy weather conditions. A group of penguins waddles onto the road from the greenery, causing traffic to slow and drivers to maneuver around them."
+
+=== cape_town_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position. A thick fog rolls in, reducing visibility to near zero. The camera struggles to capture any clear images of the road ahead, with headlights barely piercing the dense mist. Other vehicles become ghostly shapes, their outlines blurring into the haze.
+
+=== cape_town_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position. Heavy rain begins to fall, creating a dense curtain of water that obscures the view ahead. The camera's lens becomes covered in water droplets, further distorting the image. A large truck ahead suddenly swerves into the vehicle's lane, its taillights a blurred warning in the deluge.
+
+=== cape_town_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its position in the right lane. A thick fog rolls in, reducing visibility to near zero. The camera struggles to capture any clear images of the road ahead, with headlights barely piercing the dense mist. Suddenly, a single vehicle emerges from the fog, cutting sharply across from the left lane, moving quickly towards the car. The camera captures its blurred outline as it drifts closely past, momentarily obscuring the view before disappearing into the haze."
+
+=== casablanca_8_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the illuminated streetlights and buildings on both sides of the road. A car ahead of the vehicle stops at a red light, causing the vehicle behind to slow down slightly. Suddenly, a motorcycle disregards the red light, weaving through stopped traffic and narrowly passing the vehicle on the left.
+
+=== casablanca_8_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the illuminated streetlights and buildings on both sides of the road. A car ahead of the vehicle stops at a red light, causing the vehicle behind to slow down slightly. A pedestrian steps onto the crosswalk against the 'Do Not Walk' signal, forcing the vehicle to brake sharply to avoid a collision.
+
+=== casablanca_8_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane on the right. The camera captures the illuminated streetlights and buildings on both sides of the road. A car ahead of the vehicle stops at a red light, causing the vehicle behind to slow down gradually. Suddenly, a motorcycle disregards the red light, weaving through stopped traffic and narrowly passing the vehicle on the left, a few feet ahead."
+
+=== casablanca_8_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the illuminated streetlights and buildings on both sides of the road. A car ahead of the vehicle stops at a red light, causing the vehicle behind to slow down slightly. Suddenly, a motorcycle attempts to squeeze between the two cars, forcing the vehicle to brake sharply to avoid a collision.
+
+=== casablanca_8_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the illuminated streetlights and buildings on both sides of the road. A car ahead of the vehicle stops at a red light, causing the vehicle behind to slow down slightly. A large truck approaches from behind, rapidly changing lanes and attempting to merge into the same lane as the vehicle, requiring a quick adjustment to avoid a collision.
+
+=== casablanca_8_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining the left lane. The camera captures the illuminated streetlights and buildings on both sides of the road. A car ahead of the vehicle stops at a red light, causing the vehicle behind to slow down abruptly. Suddenly, a motorcycle attempts to weave between the two cars, forcing the vehicle to brake sharply to avoid a collision."
+
+=== charlotte_6_emergency_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the cityscape ahead, showing the illuminated buildings and streets. Vehicles, including a police car, move along the road, and traffic lights change, indicating the flow of traffic. Trees line the sides of the street. The camera remains steady, focusing on the forward view. Suddenly, sirens blare as an ambulance approaches from behind, weaving through traffic. The vehicle in front of the camera slows and pulls to the side, allowing the ambulance to pass.
+
+=== charlotte_6_emergency_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the cityscape ahead, showing the illuminated buildings and streets. Vehicles, including a police car, move along the road, and traffic lights change, indicating the flow of traffic. Trees line the sides of the street. The camera remains steady, focusing on the forward view. A fire truck emerges from a side street, lights flashing, and enters the main road, causing vehicles to adjust their positions to make way. The camera's vehicle slows and moves to the right to allow the fire truck to pass.
+
+=== charlotte_6_emergency_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the cityscape ahead, showing the illuminated buildings and streets. Vehicles, including a police car, move along the road, and traffic lights change, indicating the flow of traffic. Trees line the sides of the street. The camera remains steady, focusing on the forward view. Suddenly, sirens blare as two ambulances approach from behind, weaving through traffic. The vehicles in front of the camera slow and pull to the sides, allowing the ambulances to pass closely."
+
+=== charlotte_6_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the cityscape ahead, showing the illuminated buildings and streets. Vehicles, including a police car, move along the road, and traffic lights change, indicating the flow of traffic. Trees line the sides of the street. Suddenly, a car in the adjacent lane makes a sharp, aggressive lane change, cutting off another vehicle and causing it to swerve. The camera remains steady, capturing the chaotic aftermath.
+
+=== charlotte_6_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the cityscape ahead, showing the illuminated buildings and streets. Vehicles, including a police car, move along the road, and traffic lights change, indicating the flow of traffic. Trees line the sides of the street. A motorcycle approaches from behind, weaving dangerously between lanes, narrowly avoiding other vehicles. The camera captures the reckless maneuver as the motorcycle speeds ahead, leaving a trail of honking cars behind.
+
+=== charlotte_6_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The car is in the right lane, with buildings illuminated and trees lining the street. A police car is ahead, and traffic lights change, regulating the flow. Suddenly, a car in the left lane makes an abrupt, aggressive lane change, cutting off a vehicle behind it, causing it to swerve. The camera remains steady, capturing the chaotic aftermath."
+
+=== chennai_4_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the busy street scene as vehicles move forward. A motorcycle in front of the camera slows down, weaving through traffic. A pedestrian steps onto the road unexpectedly, causing the motorcycle to swerve abruptly. The vehicle behind, a car, brakes sharply to avoid collision.
+
+=== chennai_4_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the busy street scene as vehicles move forward. A motorcycle in front of the camera stops suddenly, causing a buildup of traffic behind. A group of cyclists approaches from the left, attempting to merge into the lane, adding to the congestion. The vehicle behind, a bus, honks and changes lanes to maneuver around the stationary motorcycle and the cyclists.
+
+=== chennai_4_vru_v3 ===
+"The video captures a forward-facing view from a car's dashcam. The camera shows a bustling street, with vehicles moving steadily. A motorcycle, positioned in the left lane, slows down, weaving through traffic. Suddenly, a pedestrian steps onto the road ahead, forcing the motorcycle to swerve abruptly. A car behind, in the right lane, brakes sharply to avoid collision."
+
+=== chicago_2_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the city street as the vehicle drives forward. The traffic lights ahead change from red to green, allowing the vehicles to proceed. Suddenly, a car from the right lane cuts sharply into the left lane, nearly colliding with the vehicle ahead. The camera captures the abrupt maneuver and the vehicles swerve to avoid a collision.
+
+=== chicago_2_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the city street as the vehicle drives forward. The traffic lights ahead change from red to green, allowing the vehicles to proceed. A pedestrian steps onto the crosswalk against the 'Do Not Walk' signal, forcing the vehicle to brake abruptly to avoid a collision. The camera remains steady, capturing the sudden change in the vehicle's speed and the pedestrian's disregard for the traffic rules.
+
+=== chicago_2_extreme_v3 ===
+"The video is captured from a camera mounted on a car, facing forward as it drives down a city street. The traffic light ahead turns green, allowing vehicles to proceed. Suddenly, a car from the left lane cuts sharply into the right lane, narrowly missing the vehicle ahead. The camera captures the abrupt maneuver as the vehicles swerve to avoid a collision."
+
+=== chittagong_debris_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the right side of the road, indicating possible construction or maintenance work. A large piece of debris, resembling a wooden plank, rolls onto the road from the right shoulder, causing the vehicle to swerve slightly to avoid it.
+
+=== chittagong_debris_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the right side of the road, indicating possible construction or maintenance work. A sudden gust of wind blows a plastic bag into the vehicle's path, causing it to momentarily veer before regaining control.
+
+=== chittagong_debris_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its position in the left lane. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the left side of the road, indicating possible construction or maintenance work. A large piece of debris, resembling a wooden plank, rolls onto the road from the left shoulder, causing the vehicle to swerve slightly to avoid it."
+
+=== chittagong_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the right side of the road, indicating possible construction or maintenance work. Fog begins to roll in, significantly reducing visibility. The vehicle's headlights struggle to pierce the dense fog, and the camera's sensor begins to malfunction, causing static and distorted images.
+
+=== chittagong_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the right side of the road, indicating possible construction or maintenance work. A sudden, heavy downpour starts, obscuring the view of the road ahead. The camera's lens becomes saturated with water, causing a blurred and distorted view of the traffic and the "Dream Line" bus.
+
+=== chittagong_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its right lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly ahead. The road appears wet, suggesting recent rain, and traffic cones are placed along the left side of the road, indicating possible construction or maintenance work. Fog begins to roll in, significantly reducing visibility. The vehicle's headlights struggle to pierce the dense fog, and the camera's sensor begins to malfunction, causing static and distorted images. Suddenly, a car approaches from behind, weaving rapidly and closing in closely, causing the vehicle to swerve abruptly to the left."
+
+=== chittagong_work_zones_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the right side of the road, indicating possible construction or maintenance work. Suddenly, a crew in orange vests emerges, guiding traffic around a newly opened excavation site, as the vehicle navigates the dynamic work zone.
+
+=== chittagong_work_zones_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Traffic ahead remains steady, with a bus labeled "Dream Line" visible directly in front. The road appears wet, suggesting recent rain, and traffic cones are placed along the right side of the road, indicating possible construction or maintenance work. As the vehicle approaches, a large truck with a crane parked on the shoulder begins to maneuver, blocking the right lane while workers in yellow hard hats guide traffic, creating a temporary bottleneck in the work zone.
+
+=== chittagong_work_zones_v3 ===
+"The video is captured from a car's forward-facing camera. The vehicle steadily advances in the left lane. Traffic ahead is light, with a bus labeled 'Dream Line' a few meters ahead. The road is damp from recent rain, and orange cones line the left side, hinting at upcoming maintenance. Suddenly, a crew in reflective vests appears, guiding traffic around a newly exposed utility trench, as the vehicle carefully navigates the shifting work zone."
+
+=== cologne_3_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The scene remains busy with cars and pedestrians, and the buildings on either side remain prominent. The camera angle stays steady, focusing on the road ahead. A cyclist approaches from the right, merging into the vehicle's lane. The vehicle slows and adjusts position to maintain a safe distance.
+
+=== cologne_3_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The scene remains busy with cars and pedestrians, and the buildings on either side remain prominent. The camera angle stays steady, focusing on the road ahead. A group of tourists suddenly crosses the street mid-block, forcing the vehicle to brake and wait for them to clear before proceeding.
+
+=== cologne_3_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The scene remains busy with cars and pedestrians, and the buildings on either side remain prominent. The camera angle stays steady, focusing on the road ahead. A cyclist approaches from the left, merging into the vehicle's lane. The vehicle slows and adjusts position to maintain a safe distance."
+
+=== dakar_8_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. Pedestrians cross the road, and vehicles move along the street. The camera remains steady, focusing on the road ahead. A group of pedestrians suddenly steps into the crosswalk, causing the vehicle to brake abruptly to avoid collision.
+
+=== dakar_8_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. Pedestrians cross the road, and vehicles move along the street. The camera remains steady, focusing on the road ahead. A cyclist weaves through the pedestrians, moving erratically and cutting in front of the vehicle, forcing it to swerve to avoid a collision.
+
+=== dakar_8_vru_v3 ===
+"The video is captured from a camera mounted on a car, positioned in the right lane. The camera faces forward, capturing the view of the street as the vehicle drives slowly ahead. Pedestrians cross the road, and vehicles move along the street. The camera remains steady, focusing on the road ahead. A group of pedestrians suddenly steps into the crosswalk, causing the vehicle to brake abruptly to avoid collision."
+
+=== dallas_2_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives down the street. A large truck approaches from behind, attempting to merge into the lane ahead. The vehicle slows and allows the truck to merge safely, maintaining a steady pace.
+
+=== dallas_2_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives down the street. A cyclist suddenly appears in the adjacent lane, weaving through traffic. The vehicle slows and adjusts its position to provide a safe passing distance, maintaining a cautious speed.
+
+=== dallas_2_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives down the left lane. A large truck approaches from behind, attempting to merge into the lane ahead. The vehicle slows gradually, allowing the truck to merge safely, maintaining a steady pace."
+
+=== delhi_3_wildlife_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. A cow wanders onto the road from the left, moving slowly towards the center. The vehicle slows as other cars swerve to avoid the cow. The cow eventually veers off the road into the tree-lined grass.
+
+=== delhi_3_wildlife_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. A monkey leaps onto the road from the trees above, causing nearby cars to honk and swerve. The monkey crosses the road quickly, disappearing into the foliage on the other side. The vehicle slows momentarily before resuming speed.
+
+=== delhi_3_wildlife_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its position in the right lane. A cow wanders onto the road from the right, moving quickly towards the center. The vehicle slows as other cars swerve to avoid the cow. The cow abruptly veers off the road into the tree-lined grass, a few feet ahead."
+
+=== denver_3_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The traffic lights remain green, allowing vehicles to proceed. A white car moves ahead, while a dark-colored SUV follows behind. The white car suddenly merges into the right lane, causing the SUV to brake and slow down. The scene remains tense as the vehicles navigate the unexpected maneuver.
+
+=== denver_3_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The traffic lights remain green, allowing vehicles to proceed. A white car moves ahead, while a dark-colored SUV follows behind. A motorcycle approaches from behind, weaving through traffic. The SUV suddenly changes lanes, forcing the motorcycle to swerve and adjust speed. The scene remains dynamic with multiple vehicles negotiating space.
+
+=== denver_3_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The traffic lights remain green, allowing vehicles to proceed. A white car moves ahead in the center lane, while a dark-colored SUV follows closely behind. The white car abruptly cuts into the left lane, causing the SUV to brake and slow down. The scene remains tense as the vehicles navigate the unexpected maneuver."
+
+=== detroit_4_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. Heavy snowfall begins, reducing visibility. Traffic lights ahead change, but the vehicle's sensors struggle to detect the change due to snow accumulation, causing a momentary delay in response. Other vehicles in the scene slow down, their lights reflecting off the wet road, further challenging the vehicle's sensors.
+
+=== detroit_4_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. A sudden downpour begins, causing water to spray from the tires of passing vehicles. The camera lens becomes temporarily blurred by the water, obstructing the vehicle's forward view. Traffic lights ahead change, but the vehicle's sensors are momentarily impaired, leading to a brief hesitation in response. Other vehicles in the scene adapt their speeds, their taillights reflecting off the wet road.
+
+=== detroit_4_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its position in the right lane. Heavy snowfall begins, reducing visibility. Traffic lights ahead change, but the vehicle's sensors struggle to detect the change due to snow accumulation, causing a brief delay in response. A single vehicle in the left lane abruptly cuts in front, its lights reflecting off the wet road, further challenging the vehicle's sensors."
+
+=== dubai_work_zones_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the highway as the vehicle drives forward. The scene remains consistent with other vehicles visible ahead and the urban skyline in the background. The camera angle stays steady, focusing on the road ahead, where a sudden traffic jam is caused by a road closure for emergency repairs. Orange cones and a large sign reading "Road Closed Ahead" appear, and traffic cones guide the vehicle into a temporary lane, slowing the pace.
+
+=== dubai_work_zones_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the highway as the vehicle drives forward. The scene remains consistent with other vehicles visible ahead and the urban skyline in the background. The camera angle stays steady, focusing on the road ahead, where a construction crew is setting up a temporary traffic signal. Workers in reflective vests direct traffic, and heavy machinery, including a crane, is positioned on the shoulder, causing a slight bottleneck as the vehicle navigates the changing traffic flow.
+
+=== dubai_work_zones_v3 ===
+"The video is captured from a camera mounted on a car, positioned in the right lane. The camera faces forward, revealing a steady view of the highway as the vehicle moves slowly ahead. The scene remains consistent, with other vehicles visible behind and the urban skyline in the background. The camera angle remains fixed, focusing on the road ahead where a sudden traffic jam is caused by a road closure for emergency repairs. Orange cones and a large sign reading 'Road Closed Ahead' emerge, guiding the vehicle into a temporary lane, abruptly slowing the pace."
+
+=== durban_5_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives down the street. It will pass by the white van and the silver pickup truck, which are currently stopped at the intersection. The camera will then show the vehicle approaching the traffic light, where a car suddenly speeds through the red light, forcing the vehicle to brake sharply to avoid a collision.
+
+=== durban_5_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives down the street. It will pass by the white van and the silver pickup truck, which are currently stopped at the intersection. The camera will then show the vehicle approaching the traffic light. As it stops, a motorcycle performs a wheelie, weaving through traffic and narrowly missing the vehicle before speeding away.
+
+=== durban_5_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The car is in the right lane, approaching the intersection where a white van and a silver pickup truck are stopped. As the car nears the traffic light, a single car, traveling quickly from behind, suddenly cuts into the right lane, forcing the car to brake sharply to avoid a collision at the last moment."
+
+=== edinburgh_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view of the street as the vehicle drives forward. The traffic light ahead will change from green to red, causing the vehicle to stop. Pedestrians will cross the street at the crosswalk, increasing in number and blocking the road temporarily. A cyclist will pass by on the right side of the road, weaving through the pedestrians.
+
+=== edinburgh_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view of the street as the vehicle drives forward. A large group of schoolchildren emerges from a nearby building, crossing the street in all directions, some jaywalking. The vehicle slows and navigates carefully through the crowd. A cyclist passes on the left, ringing their bell to alert the pedestrians.
+
+=== edinburgh_vru_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The car is in the left lane, approaching a traffic light. The light ahead will change from green to red, prompting the car to slow down and stop. Pedestrians will cross the street at the crosswalk, their numbers increasing and temporarily blocking the road. A cyclist will pass by on the left side of the road, weaving through the pedestrians, momentarily slowing down before continuing on."
+
+=== edmonton_4_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the road. A large, slow-moving truck, possibly a semi-trailer, enters the frame from behind, filling the rearview mirror. The vehicle ahead slows to accommodate the truck's wide turning radius.
+
+=== edmonton_4_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the road. A large, yellow school bus, with its hazard lights flashing, approaches from the opposite direction, reducing speed in the snowy conditions. The vehicle ahead slows and shifts lanes to maintain a safe distance.
+
+=== edmonton_4_anomalous_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The car drives along the right lane of the road. A large, slow-moving truck, possibly a semi-trailer, enters the frame from behind, closely following. The car ahead slows to accommodate the truck's wide turning radius, edging into the center lane momentarily."
+
+=== edmonton_4_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the road. Heavy snow begins to fall, rapidly reducing visibility. The vehicle's sensors struggle to adapt, causing the car to slow and swerve slightly as it navigates the snowy conditions.
+
+=== edmonton_4_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the road. A snowplow approaches from the opposite direction, kicking up a cloud of snow and ice. The vehicle's sensors momentarily lose track of the road, causing the car to veer slightly before correcting course.
+
+=== edmonton_4_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives in the right lane. Heavy snow begins to fall, rapidly reducing visibility. The vehicle's sensors struggle to adapt, causing the car to slow and weave slightly as it navigates the snowy conditions. Suddenly, a large truck approaches from behind, moving quickly and closing the distance. The vehicle swerves to the left to avoid a collision, momentarily drifting into the adjacent lane."
+
+=== erbil_4_debris_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the road, maintaining its lane. The camera captures the view of the road ahead, showing the speed limit sign and the surrounding landscape. The sky remains overcast, and the road appears wet, suggesting recent rain. The vehicle maintains a steady speed. Suddenly, a large, loose rock rolls onto the road from the fenced area, causing the vehicle to swerve slightly to avoid it.
+
+=== erbil_4_debris_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the road, maintaining its lane. The camera captures the view of the road ahead, showing the speed limit sign and the surrounding landscape. The sky remains overcast, and the road appears wet, suggesting recent rain. The vehicle maintains a steady speed. Abruptly, a piece of plastic sheeting, caught by the wind, blows onto the road from the open land, temporarily obscuring the vehicle's path before being blown away.
+
+=== erbil_4_debris_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives steadily in the left lane. The road ahead is clear, with a speed limit sign visible. The sky remains overcast, and the road is damp. The vehicle maintains a consistent speed. Suddenly, a large rock rolls onto the road from the right, causing the vehicle to swerve abruptly to the left, narrowly avoiding it."
+
+=== faisalabad_2_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the road ahead, showing other vehicles and pedestrians. A large truck with a flatbed loaded with heavy machinery approaches from the rear, slowly merging into the lane ahead. The vehicle adjusts speed and position to maintain a safe distance.
+
+=== faisalabad_2_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the road ahead, showing other vehicles and pedestrians. A slow-moving cart drawn by a bull occupies the right shoulder, partially encroaching into the lane. The vehicle slows and shifts left to avoid a collision, maintaining a safe distance from the cart.
+
+=== faisalabad_2_anomalous_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its right lane. The camera captures the road ahead, showing other vehicles and pedestrians. A large truck with a flatbed loaded with heavy machinery approaches from the rear, abruptly merging into the right lane ahead. The vehicle adjusts speed and position to maintain a safe distance."
+
+=== florence_3_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the street scene as the vehicle drives forward. The camera remains steady, focusing on the road ahead, with occasional vehicles passing by. A group of pedestrians emerges from between parked cars, stepping onto the road and causing the vehicle to slow and navigate around them.
+
+=== florence_3_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the street scene as the vehicle drives forward. The camera remains steady, focusing on the road ahead, with occasional vehicles passing by. A cyclist suddenly emerges from a narrow gap between parked cars, cutting across the lane, forcing the vehicle to brake and adjust its path.
+
+=== florence_3_vru_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the street scene as the vehicle drives forward in the right lane. A single pedestrian emerges from between parked cars, stepping onto the road ahead, causing the vehicle to slow abruptly and weave around them."
+
+=== hamilton_4_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle approaches a complex intersection with multiple lanes and traffic lights. A large truck from the left turns right, blocking the lane ahead. The vehicle brakes and waits for the truck to clear before proceeding cautiously.
+
+=== hamilton_4_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle approaches a busy intersection with multiple lanes and traffic lights. A cyclist enters the crosswalk, slowing the traffic flow. The vehicle decelerates and allows the cyclist to cross safely before continuing through the intersection.
+
+=== hamilton_4_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. As the vehicle approaches a complex intersection with multiple lanes and traffic lights, a large truck from the right cuts sharply across the center lane, blocking the path ahead. The vehicle, in the left lane, slows abruptly and waits for the truck to clear before proceeding cautiously."
+
+=== hamilton_4_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing straight ahead, passing through an intersection where traffic lights are visible. Heavy rain begins to fall, obscuring the road and reducing visibility. The vehicle's wipers activate, but the camera struggles to maintain clarity. As the vehicle approaches the intersection, the traffic lights become barely visible through the downpour, causing the vehicle to slow and approach cautiously.
+
+=== hamilton_4_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will capture the vehicle continuing straight ahead, passing through an intersection where traffic lights are visible. A thick fog rolls in, significantly reducing visibility. The vehicle's headlights activate, but the camera's view remains hazy. As the vehicle approaches the intersection, it becomes apparent that the traffic lights are not clearly visible, leading the vehicle to slow down and proceed with caution, allowing other vehicles to navigate the intersection safely.
+
+=== hamilton_4_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The car is in the right lane, steadily approaching an intersection. Heavy rain begins to fall, reducing visibility and causing the wipers to activate. As the car nears the intersection, the traffic lights are barely discernible through the downpour, prompting the car to slow cautiously. Suddenly, a single vehicle emerges from the left, weaving erratically towards the intersection, forcing the car to abruptly brake and edge to the right to avoid a collision."
+
+=== helsinki_2_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the snowy street scene as the vehicle drives forward. The traffic light ahead turns red, causing the vehicle to stop. A snowplow passes by on the right side of the road, blocking the lane as it clears the snow. The vehicle behind the camera waits patiently for the snowplow to clear the lane.
+
+=== helsinki_2_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the snowy street scene as the vehicle drives forward. The traffic light ahead turns red, causing the vehicle to stop. A large construction truck enters the intersection from the left, temporarily blocking traffic as it turns right. The vehicle behind the camera adjusts its position to avoid a collision.
+
+=== helsinki_2_anomalous_v3 ===
+"The video captures a forward-facing view from a car's dashcam. The camera shows a snowy street scene as the vehicle moves forward. The traffic light ahead turns red, halting the vehicle. A snowplow, now on the left side of the road, clears snow, momentarily blocking the lane. The vehicle behind, closely following, waits patiently for the snowplow to edge away."
+
+=== helsinki_2_emergency_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the snowy street scene as the vehicle drives forward. The traffic light ahead turns red, causing the vehicle to stop. An ambulance with flashing lights approaches from behind, prompting the vehicle to pull over. The ambulance speeds through the intersection, followed by a police car. The camera remains steady, focusing on the intersection and the surrounding buildings.
+
+=== helsinki_2_emergency_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the snowy street scene as the vehicle drives forward. The traffic light ahead turns green, allowing the vehicle to proceed. A fire truck with sirens blaring emerges from a side street, crossing the intersection diagonally. The vehicle slows to allow the fire truck to pass, causing a temporary backup in traffic. The camera remains steady, capturing the dynamic scene.
+
+=== helsinki_2_emergency_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The car is in the right lane, driving forward. The traffic light ahead turns red, causing the car to stop. A single ambulance, lights flashing, approaches from behind, weaving through the traffic. The car pulls over to the left, allowing the ambulance to speed through the intersection closely, followed by a police car. The camera remains steady, focusing on the intersection and the surrounding buildings."
+
+=== helsinki_2_work_zones_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the snowy street scene as the vehicle drives forward. The traffic light ahead turns red, causing the vehicle to stop. A snowplow with a flashing amber beacon passes by on the right side of the road, clearing the snow. Emergency vehicles follow closely behind, their lights flashing. Workers in reflective vests direct traffic, guiding vehicles through a temporary lane closure.
+
+=== helsinki_2_work_zones_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the snowy street scene as the vehicle drives forward. A large sign ahead warns of roadwork, with temporary barriers narrowing the road. A crew of workers, equipped with shovels and salt spreaders, is visible on the left side of the road, treating the slippery surface. The vehicle slows and navigates carefully through the work zone, as traffic is temporarily reduced to a single lane.
+
+=== helsinki_2_work_zones_v3 ===
+"The video captures a forward-facing view from a car's camera, revealing a snowy street. As the vehicle progresses, a red traffic light ahead prompts a halt. A snowplow, its amber beacon flashing, approaches from the left, clearing snow. Emergency vehicles follow closely, lights ablaze, as workers in reflective vests guide traffic through a temporary lane closure."
+
+=== honolulu_6_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the road ahead, showing the cyclist crossing the intersection. A group of pedestrians suddenly enters the crosswalk, causing the cyclist to slow down. The vehicle adjusts its speed to maintain a safe distance from both the cyclist and the pedestrians.
+
+=== honolulu_6_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane. The camera captures the road ahead, showing the cyclist crossing the intersection. A skateboarder approaches the intersection from the left, weaving through traffic. The vehicle slows down to allow the skateboarder to cross safely before resuming speed.
+
+=== honolulu_6_vru_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its right lane. The camera captures the road ahead, showing a cyclist crossing the intersection from the left. A group of pedestrians suddenly enters the crosswalk, causing the cyclist to slow down abruptly. The vehicle adjusts its speed, gradually maintaining a safe distance from both the cyclist and the pedestrians, now several meters ahead."
+
+=== houston_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the highway. A car suddenly cuts into the lane from the right, narrowly avoiding a collision. The vehicle swerves to avoid it, causing a brief loss of control before regaining composure.
+
+=== houston_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the highway. A motorcycle weaves dangerously through traffic, frequently changing lanes without signaling. The vehicle must adjust speed and position to avoid a potential collision.
+
+=== houston_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives along the highway in the center lane. A single car abruptly cuts into the lane from the right, narrowly missing a collision. The vehicle swerves to avoid it, momentarily losing control before regaining composure."
+
+=== ibadan_3_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the steady flow of traffic, including cars, motorcycles, and pedestrians. A group of pedestrians suddenly crosses the road ahead, blocking the lane. The vehicle slows and comes to a stop, waiting for the pedestrians to clear before resuming speed.
+
+=== ibadan_3_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its lane position. The camera captures the steady flow of traffic, including cars, motorcycles, and pedestrians. A pedestrian steps onto the road from the sidewalk, facing the vehicle and waving their arms. The vehicle brakes and comes to a halt, honking to alert the pedestrian, who eventually moves aside, allowing the vehicle to proceed.
+
+=== ibadan_3_vru_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward, maintaining its position in the right lane. The camera captures the steady flow of traffic, including cars and a single motorcycle. A group of pedestrians suddenly crosses the road ahead, blocking the lane. The vehicle slows gradually and comes to a stop, closely behind the pedestrians, waiting for them to clear before resuming speed."
+
+=== istanbul_2_emergency_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the street scene as the vehicle drives forward. The view remains steady, showing the same urban environment with parked cars, buildings, and an ambulance parked on the right side of the road. The traffic light ahead is red, indicating that vehicles must stop. Suddenly, an ambulance siren blares, and it begins to move quickly from the parked position, merging into traffic. The vehicle ahead yields, allowing the ambulance to pass.
+
+=== istanbul_2_emergency_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the street scene as the vehicle drives forward. The view remains steady, showing the same urban environment with parked cars, buildings, and a fire truck parked on the left side of the road. The traffic light ahead is green, allowing vehicles to proceed. As the vehicle approaches the fire truck, its lights flash, and it begins to pull out into traffic. The vehicle slows and yields to the fire truck as it responds to an emergency.
+
+=== istanbul_2_emergency_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the street scene as the vehicle drives forward. The view remains steady, showing the same urban environment with parked cars, buildings, and an ambulance parked on the left side of the road. The traffic light ahead is red, indicating that vehicles must stop. Suddenly, two ambulances siren blares, and they begin to move quickly from the parked position, merging into traffic. The vehicle ahead yields, allowing the ambulances to pass."
+
+=== jacksonville_6_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing more vehicles parked along the side. Pedestrians can be seen walking near the water on the left side of the frame. Suddenly, a group of pedestrians, distracted by their phones, crosses the road ahead, causing the vehicle to slow and swerve slightly to avoid a collision.
+
+=== jacksonville_6_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing more vehicles parked along the side. Pedestrians can be seen walking near the water on the left side of the frame. A cyclist, riding against traffic, enters the frame from the right, forcing the vehicle to brake and change lanes to avoid a collision.
+
+=== jacksonville_6_vru_v3 ===
+"The video is captured from a camera mounted on a car, positioned in the right lane. The camera faces forward, revealing more vehicles parked along the side. Pedestrians walk near the water on the right side of the frame. Suddenly, a group of pedestrians, absorbed in their phones, crosses the road ahead, causing the vehicle to slow and swerve slightly to avoid a collision."
+
+=== jakarta_work_zones_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as the vehicle drives forward. Construction barriers on the right side narrow the road ahead, with workers in bright vests operating machinery near the roadside. Traffic remains dense, with cars moving slowly due to congestion and the presence of a temporary traffic light. Pedestrians can be seen crossing the overpass above the road as the vehicle navigates through the dynamic work zone.
+
+=== jakarta_work_zones_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as the vehicle drives forward. A large crane stands prominently on the left side of the road, with workers in high-visibility vests actively assembling a new road structure. The right lane is closed, and cones guide traffic into a single lane. The vehicle slows down, maintaining a safe distance from the work area as it passes through the busy urban construction site.
+
+=== jakarta_work_zones_v3 ===
+"The video is captured from a car's forward-facing camera. As the vehicle edges through the center lane, the road narrows due to construction barriers on the left. Workers in reflective vests operate machinery just ahead, while a single pedestrian momentarily crosses the overpass above. Traffic is dense, with cars weaving slowly through the temporary traffic light, creating a dynamic work zone."
+
+=== johannesburg_2_emergency_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. The police car ahead suddenly activates its lights and siren, signaling an emergency. The vehicle rapidly pulls over to the right, allowing the police car to pass swiftly.
+
+=== johannesburg_2_emergency_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. An ambulance approaches from behind, its sirens blaring and lights flashing. The vehicle quickly shifts to the right lane, allowing the ambulance to pass at high speed.
+
+=== johannesburg_2_emergency_v3 ===
+"The video captures a forward-facing view from a car's dashcam. The camera shows the street ahead as the vehicle drives in the center lane. A single police car, initially behind and to the left, suddenly activates its lights and siren, signaling an emergency. The vehicle abruptly drifts right, allowing the police car to swiftly pass by on the left."
+
+=== kampala_8_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the busy street scene as vehicles, including buses and motorcycles, move forward. Pedestrians can be seen walking along the sidewalks. Suddenly, a pedestrian crosses the road mid-block, causing vehicles to brake and swerve. The camera remains steady, focusing on the chaotic scene as traffic flow is disrupted.
+
+=== kampala_8_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the busy street scene as vehicles, including buses and motorcycles, move forward. Pedestrians can be seen walking along the sidewalks. A motorcycle weaves erratically through traffic, narrowly avoiding collisions with other vehicles. The camera captures the tense moment as drivers react to the unpredictable motorcycle.
+
+=== kampala_8_vru_v3 ===
+"The video is captured from a camera mounted on a car, positioned in the right lane. The camera faces forward, revealing a bustling street with vehicles moving ahead. A single bus and a motorcycle are visible. Pedestrians walk along the sidewalk. Suddenly, a pedestrian steps into the road a few feet ahead, causing the car to brake abruptly. The camera remains steady, capturing the chaotic scene as traffic flow is disrupted, with vehicles weaving to avoid the pedestrian."
+
+=== khulna_2_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position. A large white tanker truck appears ahead, dominating the lane and forcing the vehicle to slow down and adjust its position to the right. The camera remains fixed, capturing the imposing presence of the truck and the necessary adjustments made by the vehicle.
+
+=== khulna_2_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position. An oversized construction vehicle with a wide load approaches from behind, its size causing the vehicle to slow down and change lanes to the left to avoid a collision. The camera remains fixed, capturing the looming presence of the construction vehicle and the vehicle's strategic maneuvering.
+
+=== khulna_2_anomalous_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position in the center. A large white tanker truck appears ahead, closely approaching from the left lane, dominating the lane and forcing the vehicle to adjust its position to the right. The camera remains fixed, capturing the imposing presence of the truck and the necessary adjustments made by the vehicle, which slows down gradually to maintain a safe distance."
+
+=== lima_8_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving in both directions. A speeding car suddenly cuts across multiple lanes from the right, narrowly missing other vehicles. The camera car swerves to avoid a collision.
+
+=== lima_8_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving in both directions. A motorcyclist weaves erratically through traffic, disregarding lane markings. The camera car slows to maintain a safe distance as the motorcyclist speeds ahead.
+
+=== lima_8_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward, showing vehicles moving in both directions. A car from the left lane abruptly cuts across multiple lanes, narrowly missing other vehicles. The camera car swerves to avoid a collision."
+
+=== lima_8_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving in both directions. The scene remains consistent with the highway bordered by a grassy embankment on one side and a bridge on the other. The sky appears overcast, and the streetlights are illuminated, indicating it might be early evening. A sudden downpour begins, reducing visibility. The camera's lens starts to blur, and the vehicle's speed decreases as it encounters potential obstacles in the heavy rain.
+
+=== lima_8_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the road ahead, showing vehicles moving in both directions. The scene remains consistent with the highway bordered by a grassy embankment on one side and a bridge on the other. The sky appears overcast, and the streetlights are illuminated, indicating it might be early evening. A thick fog rolls in, obscuring the road ahead. The camera struggles to focus, and the vehicle slows down, activating its hazard lights to navigate through the dense fog.
+
+=== lima_8_sensor_v3 ===
+"The video is captured from a camera mounted on a car, positioned in the right lane. The camera faces forward, revealing vehicles moving in both directions. The scene remains consistent with the highway bordered by a grassy embankment on one side and a bridge on the other. The sky appears overcast, and the streetlights are illuminated, suggesting early evening. A sudden downpour begins, reducing visibility. The camera's lens starts to blur, and the vehicle's speed decreases as it encounters potential obstacles in the heavy rain. A single vehicle, moving quickly ahead, begins to weave erratically, forcing the car to slow abruptly to avoid a collision. The rain intensifies, and the car edges cautiously forward, maintaining a safe distance from the weaving vehicle."
+
+=== madrid_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the street. A large, slow-moving construction truck enters the lane from the right, partially blocking the road. The vehicle slows and shifts to the left lane to navigate around it.
+
+=== madrid_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the street. A group of cyclists, riding against traffic, approaches from ahead, causing the vehicle to slow and adjust its course to the right to avoid a collision.
+
+=== madrid_anomalous_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives along the street in the right lane. A large, slow-moving construction truck enters the lane from the left, closely behind the vehicle. The vehicle gradually slows and edges to the left lane to navigate around it."
+
+=== madrid_work_zones_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the street. Construction barriers remain visible on both sides of the road, indicating ongoing work. A construction vehicle, its lights flashing, blocks the right lane, and workers in reflective vests direct traffic with handheld signs, as the vehicle slows and adjusts its path.
+
+=== madrid_work_zones_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the street. Construction barriers narrow the road ahead, and a temporary traffic light hangs above, regulating the flow. A crew operates a jackhammer near the roadside, as the vehicle navigates the uneven surface, pedestrians crossing cautiously in the background.
+
+=== madrid_work_zones_v3 ===
+"The video is captured from a car's forward-facing camera. As the vehicle edges along the left lane, construction barriers line both sides of the street. A single construction vehicle, lights flashing, blocks the right lane ahead, and several workers in reflective vests direct traffic with handheld signs. The vehicle gradually slows, momentarily drifting into the center lane before abruptly adjusting its path."
+
+=== manchester_3_debris_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position. The fog remains dense, obscuring visibility slightly. Traffic signs above indicate directions and information for drivers. A piece of litter, indistinguishable from a hazard in the low visibility, appears in the vehicle's path. The vehicle's sensors detect it as a potential hazard, causing the AV to briefly slow down before determining it's not an immediate threat and resuming speed.
+
+=== manchester_3_debris_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle continues to drive forward on the highway, maintaining its lane position. The fog remains dense, obscuring visibility slightly. Traffic signs above indicate directions and information for drivers. A small, reflective object, mistaken for a road hazard in the fog, suddenly enters the vehicle's path from the right shoulder. The vehicle's safety system activates, preparing to brake, but the object quickly veers off the road, allowing the vehicle to continue at a steady pace.
+
+=== manchester_3_debris_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives steadily in the right lane on the highway. The fog is thick, reducing visibility. Traffic signs overhead provide guidance. A single piece of debris, barely discernible in the haze, looms ahead in the left lane. The vehicle's sensors identify it as a potential hazard, prompting a brief deceleration before resuming speed."
+
+=== melbourne_5_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as vehicles move forward. The traffic light changes, allowing cars to proceed through the intersection. A vehicle suddenly runs the red light, speeding across the intersection from the left. The vehicle brakes sharply to avoid a collision.
+
+=== melbourne_5_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as vehicles move forward. Pedestrians cross the street at designated crosswalks. A cyclist abruptly cuts across the crosswalk, weaving between pedestrians. The vehicle slows to avoid a collision, causing a brief traffic backup.
+
+=== melbourne_5_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as vehicles move forward. The traffic light changes, allowing cars to proceed through the intersection. A vehicle suddenly speeds across the intersection from the right, weaving through traffic. The vehicle brakes sharply to avoid a collision, narrowly missing the car ahead."
+
+=== melbourne_5_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as vehicles move forward. The traffic light changes, allowing cars to proceed through the intersection. A car in the left lane attempts to merge into the right lane, causing a sudden slowdown and honking from other vehicles. Pedestrians cross the street at designated crosswalks, adding to the complexity of the intersection.
+
+=== melbourne_5_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the busy street as vehicles move forward. The traffic light changes, allowing cars to proceed through the intersection. A cyclist approaches from the left, attempting to cross the intersection against the red light. Vehicles swerve to avoid the cyclist, causing a momentary chaos as pedestrians wait at the crosswalk.
+
+=== melbourne_5_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the bustling street as vehicles move forward. The traffic light changes, allowing cars to proceed through the intersection. A car in the right lane abruptly merges into the left lane, causing a sudden slowdown and honking from other vehicles. Several pedestrians cross the street at designated crosswalks, adding to the intersection's complexity."
+
+=== minneapolis_6_emergency_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view ahead as the vehicle drives forward. The traffic lights change to red, and vehicles in front come to a stop. Suddenly, an ambulance approaches from behind, lights flashing and siren blaring. The vehicle in front pulls over, allowing the ambulance to pass. The camera captures the ambulance speeding through the intersection.
+
+=== minneapolis_6_emergency_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view ahead as the vehicle drives forward. The traffic lights change to green, and vehicles in front begin to move. A large group of protesters carrying signs and banners crosses the street, blocking the intersection. The vehicle slows to a stop, waiting for the protesters to clear before proceeding.
+
+=== minneapolis_6_emergency_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view ahead as the vehicle drives forward in the right lane. The traffic lights change to red, and vehicles in front come to a stop. Suddenly, an ambulance approaches from behind, lights flashing and siren blaring, weaving through the traffic. The vehicle in front pulls over, allowing the ambulance to pass quickly. The camera captures the ambulance speeding through the intersection."
+
+=== monterrey_5_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing more vehicles and possibly pedestrians as the vehicle drives forward. The scene includes buildings on both sides of the street, with construction cranes visible in the distance. A large construction truck enters the road from a side street, momentarily blocking traffic as it turns, causing other vehicles to slow and adjust their paths.
+
+=== monterrey_5_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing more vehicles and possibly pedestrians as the vehicle drives forward. The scene includes buildings on both sides of the street, with construction cranes visible in the distance. A group of cyclists, larger than usual, crosses the road, forcing vehicles to slow and merge lanes to accommodate them.
+
+=== monterrey_5_anomalous_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing more vehicles and possibly pedestrians as the vehicle drives forward. The scene includes buildings on both sides of the street, with construction cranes visible in the distance. A large construction truck enters the road from a side street, momentarily blocking traffic as it turns, causing other vehicles to slow and adjust their paths."
+
+=== monterrey_5_work_zones_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing more vehicles and possibly pedestrians as the vehicle drives forward. Buildings line both sides of the street, with construction cranes looming in the distance. A large sign ahead warns of an upcoming lane closure, and orange cones begin to narrow the road. Workers in reflective vests guide traffic, and a line of vehicles slowly merges into the open lane.
+
+=== monterrey_5_work_zones_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, revealing more vehicles and pedestrians as the vehicle drives forward. Buildings flank the street, with construction cranes visible in the distance. Suddenly, a large truck carrying a mobile crane emerges from a side street, temporarily blocking the right lane. Workers in high-visibility vests direct traffic, and the vehicle slows to navigate around the obstacle, maintaining a safe distance.
+
+=== monterrey_5_work_zones_v3 ===
+"The video is captured from a car's dashboard camera, facing forward. The camera reveals the road ahead, where a single vehicle weaves through traffic. Buildings flank both sides, construction cranes looming in the distance. A sign looms ahead, warning of an upcoming lane closure, and orange cones begin to funnel traffic. Workers in reflective vests direct traffic, as a line of vehicles gradually merges into the open lane, a few feet ahead."
+
+=== nashville_4_anomalous_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. A large construction truck, with a wide load of building materials, approaches from the opposite direction. The vehicle slows and moves to the right, allowing the oversized truck to pass safely.
+
+=== nashville_4_anomalous_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. A group of bicyclists, riding in a tight formation, suddenly enters the lane from the right, causing the vehicle to brake and adjust its course to avoid a collision.
+
+=== nashville_4_anomalous_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. A large construction truck, with a wide load of building materials, approaches from the opposite direction. The vehicle slows and moves to the right, allowing the oversized truck to pass safely."
+
+=== nashville_4_work_zones_v1 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. A construction site looms ahead, with barriers and cones narrowing the road. Workers in high-visibility vests operate a jackhammer near the shoulder, as the vehicle navigates the partially closed lane."
+
+=== nashville_4_work_zones_v2 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the street as the vehicle drives forward. A utility crew has set up a mobile crane ahead, partially blocking the right lane. Workers in safety gear direct traffic, using portable traffic lights, as the vehicle slows and merges left, passing beneath the crane's boom."
+
+=== nashville_4_work_zones_v3 ===
+"The video, captured from a car's dashcam facing forward, shows the vehicle edging along the left lane. Ahead, a construction site looms, its barriers and cones narrowing the road. Workers in high-visibility vests operate a jackhammer near the shoulder, as the car gradually navigates the partially closed lane, momentarily slowing to avoid a sudden pothole."
+
+=== perth_5_extreme_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing a steady flow of traffic. The vehicle maintains its lane position, following the car directly in front. The surroundings remain consistent, with buildings on the left and trees on the right. The sky transitions from blue to a warm orange hue as the sun sets. Suddenly, the car ahead slams on its brakes, causing a chain reaction of vehicles behind to brake harshly.
+
+=== perth_5_extreme_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing a steady flow of traffic. The vehicle maintains its lane position, following the car directly in front. The surroundings remain consistent, with buildings on the left and trees on the right. The sky transitions from blue to a warm orange hue as the sun sets. A motorcycle weaves dangerously between lanes, cutting off other vehicles and causing nearby drivers to swerve to avoid collision.
+
+=== perth_5_extreme_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing a steady flow of traffic. The vehicle maintains its position in the right lane, closely following a truck directly ahead. The surroundings remain consistent, with buildings on the left and trees on the right. The sky transitions from blue to a warm orange hue as the sun sets. Suddenly, the truck ahead abruptly slams on its brakes, causing a chain reaction of vehicles behind to brake harshly."
+
+=== perth_5_vru_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing a steady flow of traffic. The vehicle maintains its lane position, following the car directly in front. The surroundings remain consistent, with buildings on the left and trees on the right. The sky transitions from blue to a warm orange hue as the sun sets. A pedestrian suddenly emerges from between parked vehicles on the right, stepping into the vehicle's path. The vehicle brakes sharply to avoid collision.
+
+=== perth_5_vru_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing a steady flow of traffic. The vehicle maintains its lane position, following the car directly in front. The surroundings remain consistent, with buildings on the left and trees on the right. The sky transitions from blue to a warm orange hue as the sun sets. A cyclist swerves into the vehicle's lane from a side street on the left, causing the vehicle to swerve to the right to avoid a collision.
+
+=== perth_5_vru_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to capture the view of the road ahead, showing a steady flow of traffic. The vehicle maintains its lane position, following the car directly ahead. The surroundings remain consistent, with buildings on the left and trees on the right. The sky transitions from blue to a warm orange hue as the sun sets. A pedestrian suddenly emerges from between parked vehicles on the right, stepping into the vehicle's path. The vehicle brakes sharply to avoid collision."
+
+=== quito_8_multi_agent_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. The yellow taxi will move out of the frame to the right, and another car will enter from the left. A motorcycle approaches from behind, attempting to overtake on the left. The vehicle slows slightly to allow the motorcycle to pass, maintaining a safe distance. Pedestrians will cross the street at the crosswalk. The camera will maintain its forward-facing position, providing a steady view of the urban environment.
+
+=== quito_8_multi_agent_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. The yellow taxi will move out of the frame to the right, and another car will enter from the left. A cyclist approaches from the opposite direction, indicating a left turn at the upcoming intersection. The vehicle slows and yields to the cyclist, allowing them to make their turn safely. Pedestrians will cross the street at the crosswalk. The camera will maintain its forward-facing position, providing a steady view of the urban environment.
+
+=== quito_8_multi_agent_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. The yellow taxi will move out of the frame to the right, and a white car will enter from the left. A motorcycle approaches from behind, attempting to overtake on the right. The vehicle slows gradually to allow the motorcycle to pass, maintaining a safe distance. Several pedestrians will cross the street at the crosswalk. The camera will maintain its forward-facing position, providing a steady view of the urban environment."
+
+=== quito_8_sensor_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. The yellow taxi will move out of the frame to the right, and another car will enter from the left. Pedestrians will cross the street at the crosswalk. Heavy rain begins, reducing visibility. The camera lens becomes partially obscured by water droplets, affecting the clarity of the image.
+
+=== quito_8_sensor_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. The yellow taxi will move out of the frame to the right, and another car will enter from the left. Pedestrians will cross the street at the crosswalk. A large truck passes, kicking up a thick spray of water from the wet road, temporarily blinding the camera and obscuring the view.
+
+=== quito_8_sensor_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The camera will continue to capture the view ahead as the vehicle drives forward. A yellow taxi will move out of the frame to the left, and a white car will enter from the right. Pedestrians will cross the street at the crosswalk. Heavy rain begins, reducing visibility. The camera lens becomes partially obscured by water droplets, affecting the clarity of the image."
+
+=== reykjavik_2_preceding_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the snowy road. A car ahead suddenly begins to skid, its tires losing traction on the compacted snow. The vehicle behind it swerves to avoid a collision, causing a chain reaction of braking and maneuvering among the following cars. The camera captures the chaotic scene as drivers struggle to maintain control in the slippery conditions.
+
+=== reykjavik_2_preceding_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the snowy road. A truck ahead starts to fishtail, its heavy load causing it to lose stability on the black ice. The vehicle behind it attempts to slow down but begins to slide, leading to a series of vehicles behind losing control and colliding. The camera captures the unfolding chaos as the road becomes a dangerous obstacle course.
+
+=== reykjavik_2_preceding_v3 ===
+"The video is captured from a camera mounted on a car, positioned in the right lane. The camera remains fixed forward as the vehicle drives along the snowy road. A car ahead, several meters away, abruptly begins to skid, its tires losing traction on the compacted snow. The vehicle behind it, in the left lane, swerves to avoid a collision, causing a chain reaction of braking and maneuvering among the following cars. The camera captures the chaotic scene as drivers struggle to maintain control in the slippery conditions."
+
+=== reykjavik_2_wildlife_v1 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the snowy road. A reindeer emerges from the dense conifer forest on the left, crossing the road ahead. The vehicle slows to allow the reindeer to pass safely.
+
+=== reykjavik_2_wildlife_v2 ===
+The video is captured from a camera mounted on a car. The camera is facing forward. The camera continues to face forward as the vehicle drives along the snowy road. A sheep wanders onto the road from the right shoulder, moving slowly across the lane. The vehicle brakes and waits for the animal to clear before resuming speed.
+
+=== reykjavik_2_wildlife_v3 ===
+"The video is captured from a camera mounted on a car. The camera is facing forward. The vehicle drives along the snowy road, approaching a sharp bend. A single reindeer emerges from the dense conifer forest on the right, cutting across the road ahead. The vehicle slows abruptly to allow the reindeer to pass safely."
