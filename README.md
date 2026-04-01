@@ -22,6 +22,15 @@ data/open_domain/
 
 patches/
   mila_cluster_fix.patch            # optional: fix OSError crashes in distributed.py (see below)
+
+data/
+  cities_all.txt    # all 333 city×category×variant slots (parts 1 + 2)
+  cities_part2.txt  # 200 slots assigned to a second cluster (part 2)
+  prompts_part2.txt # upsampled captions for each part-2 slot
+
+scripts/
+  sbatch_cosmos_predict_chunk.sh  # submit one 10-video chunk job (see Chunked batch run below)
+  monitor_cosmos_predict.sh       # report done/pending counts per chunk
 ```
 
 The actual model inference is done by `examples/inference.py` inside the **cosmos-predict2** repo.
@@ -151,6 +160,87 @@ Then:
 ```bash
 export OPEN_DOMAIN_ROOT=/path/to/my_data
 export EGO_LIMIT=0
+```
+
+---
+
+## Chunked batch run (333 upsampled prompts)
+
+This pipeline was used to generate videos for 333 upsampled driving prompts
+(111 city×category pairs × 3 caption variants) split across two clusters.
+
+### Data files
+
+| File | Description |
+|------|-------------|
+| `data/cities_all.txt` | All 333 slots: `city_stem \| category \| full_name` |
+| `data/cities_part2.txt` | 200 slots for the second cluster (prompts 100–299) |
+| `data/prompts_part2.txt` | Full upsampled caption text for each part-2 slot |
+
+### Manifest structure
+
+A master JSONL manifest lists all entries ordered **prompt-major** (each prompt's 10 seeds
+are consecutive):
+
+- **Part 1** (entries 0–999): prompts 0–99 × 10 seeds → first cluster
+- **Part 2** (entries 1000–2999): prompts 100–299 × 10 seeds → second cluster
+
+Each entry:
+```json
+{
+  "name": "open_domain_{stem}_seed{NNN}",
+  "inference_type": "image2world",
+  "prompt": "...",
+  "input_path": "/absolute/path/to/image.png",
+  "seed": 0,
+  "num_output_frames": 215,
+  "enable_autoregressive": true,
+  "chunk_size": 77,
+  "chunk_overlap": 8,
+  "num_steps": 35
+}
+```
+
+> `input_path` is cluster-specific. Update before running on a different machine.
+
+### Submitting jobs
+
+Each job processes 10 videos (~10 min each, 4×A100L 80 GB, 2:10 wall time):
+
+```bash
+# Submit chunk N (processes entries N*10 to N*10+9 from the manifest)
+sbatch --export=CHUNK=0 scripts/sbatch_cosmos_predict_chunk.sh
+sbatch --export=CHUNK=1 scripts/sbatch_cosmos_predict_chunk.sh
+# ...
+
+# Submit chunks 0-29 (300 videos) at once
+for i in $(seq 0 29); do
+  sbatch --export=CHUNK=$i scripts/sbatch_cosmos_predict_chunk.sh
+done
+```
+
+### Monitoring
+
+```bash
+bash scripts/monitor_cosmos_predict.sh
+```
+
+Output:
+```
+==============================
+ Cosmos Predict Progress
+==============================
+ Done:     47 / 333
+ Pending: 286 / 333
+
+Running jobs:
+  9138960  state=RUNNING     node=cn-b001  time=1:23/2:10:00
+
+Chunk status:
+  chunk 00 (entries   0-  9): 10/10  [DONE]
+  chunk 01 (entries  10- 19):  7/10  [partial]
+  chunk 02 (entries  20- 29):  0/10  [pending]
+  ...
 ```
 
 ---
